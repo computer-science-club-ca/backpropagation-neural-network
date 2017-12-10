@@ -12,7 +12,7 @@ En général, le nombre de neurones cachés varies entre le nombre de neurones e
 Dans cet exercice, on cherche à apprendre à classer des variétés d'Iris parmi celles décrites dans la base de connaissances du site de l'Université de Californie, Irvine : https://archive.ics.uci.edu/ml/datasets/iris
 
 Ici, il y a 4 attributs donc 4 neurones en entrée : 
- 1. longeur du sépale en cm 
+ 1. longueur du sépale en cm 
  2. largeur du sépale en cm 
  3. longueur du pétale en cm 
  4. largeur du pétale en cm
